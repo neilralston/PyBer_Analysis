@@ -1,0 +1,61 @@
+# PyBer with Matplotlib (Module 5)
+
+[Link to Jupyter Notebook code](PyBer_Challeng.ipynb)
+
+## Overview of PyBer Ride Sharing Data Analysis
+
+### Purpose
+Completed an analysis of PyBer Ride Sharing Data across a cross-section of markets.
+
+Provided the following assessments:
+
+1. For each PyBer city type, calculated the following:
+	* Total number of rides
+	* Total number of drivers
+	* Total fares
+	* Average fare per ride
+	* Average fare per driver
+
+2. Prepared a multiple-line graph depicting total fareas for each week between January 1 and April 28, 2019 by city type
+
+### Resources
+
+This project was prepared using the following:
+* Python 3.7.6
+* Matplotlib 3.4.3
+* Anaconda 4.12.0
+* Jupyter Notebook 6.4.5
+* Matplotlib 3.4.3
+
+* Source data provided by Pyber: 
+
+[Link to city data](resouces/city_data.csv)
+
+[Link to ride data](resources/ride_data.csv)
+
+## PyBer Analysis Results
+
+Overview
+* 
+
+Results
+* Differences in ride-sharing data among the different city types
+
+Total Rides
+
+Toal Drivers
+
+Total Fares
+
+Average Fare per Ride
+
+Average Fare Per Driver
+
+Total Fare by City Type
+
+
+## Pyber Analysis Summary
+The following recommendations are provided to address disparities among the city types:
+1. 
+2. 
+3. 
