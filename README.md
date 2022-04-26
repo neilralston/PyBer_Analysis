@@ -39,7 +39,7 @@ The analysis yielded the following conclusions:
 
 *Total Rides: Urban communities accounted for approximately 68% of total rides generated.
 
-![Pyber Total Rides chart](analysis/Fig6.PNG)
+![Pyber Total Rides chart](analysis/Fig6.png)
 
 * Total Drivers: Urban communities accounted for approximately 81% of total drivers.
 
