@@ -43,7 +43,7 @@ The analysis yielded the following conclusions:
 
 * Total Drivers: Urban communities accounted for approximately 81% of total drivers.
 
-![Pyber Total Rides chart](analysis/Fig7b.png)
+![Pyber Total Rides chart](analysis/Fig7c.png)
 
 * Total Fares: Urban communities accounted for approximately 63% of total fares.
 
