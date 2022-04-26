@@ -53,7 +53,7 @@ The analysis yielded the following conclusions:
 
 * Average Fare Per Driver: Rural communities also generated the highest average fare per driver.
 
-![Pyber Summary Table](analysis/PyBer_summary_table.png)
+![Pyber Summary Table](analysis/PyBer_summary_table.PNG)
 
 * Total Fare by City Type: An assessment of total weekly fares by city type between January 1 and April 28, 2019 indicates that suburban trips peaked during the week of February 24, urban trips the week of March 10, and rural trips the week of April 7. 
 
