@@ -27,10 +27,9 @@ This project was prepared using the following:
 * Jupyter Notebook 6.4.5
 * Matplotlib 3.4.3
 
-* Source data provided by PyBer: 
+Source data provided by PyBer: 
 
 [Link to city data](Resources/city_data.csv)
-
 [Link to ride data](Resources/ride_data.csv)
 
 ## PyBer Analysis Results
