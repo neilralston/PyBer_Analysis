@@ -29,9 +29,9 @@ This project was prepared using the following:
 
 * Source data provided by PyBer: 
 
-[Link to city data](resources/city_data.csv)
+[Link to city data](Resources/city_data.csv)
 
-[Link to ride data](resources/ride_data.csv)
+[Link to ride data](Resources/ride_data.csv)
 
 ## PyBer Analysis Results
 
