@@ -35,7 +35,7 @@ Source data provided by PyBer:
 
 ## PyBer Analysis Results
 
-The analysis yielded the following conclusions:
+### The analysis yielded the following conclusions:
 
 * Total Rides: Urban communities accounted for approximately 68% of total rides generated.
 
@@ -60,7 +60,9 @@ The analysis yielded the following conclusions:
 ![Pyber Weekly Fares Chart](analysis/PyBer_fare_summary.png)
 
 ## PyBer Analysis Summary
-The following recommendations are provided to address disparities among the city types:
+
+### The following recommendations are provided to address disparities among the city types:
+
 1. Pyber could consider a campaign to recruit additional drivers in rural communities as the average fare per ride and per driver are higher.
 2. As the peak level fare generation occurred during a different week for each community type, Pyber could consider shifting some drivers within its system to better match ride demand with driver availability.
 3. Pyber could continue the weekly fare trend analysis to determine if the strong growth in suburban fare generation continued into the summer months; if so, a promotional campaign may be warranted. 
