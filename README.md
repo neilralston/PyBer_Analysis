@@ -37,27 +37,27 @@ This project was prepared using the following:
 
 The analysis yielded the following conclusions:
 
-*Total Rides: Urban communities accounted for approximately 68% of total rides generated.
+* Total Rides: Urban communities accounted for approximately 68% of total rides generated.
 
 ![Pyber Total Rides chart](analysis/Fig6.png)
 
 * Total Drivers: Urban communities accounted for approximately 81% of total drivers.
 
-![Pyber Total Rides chart](analysis/Fig7b.PNG)
+![Pyber Total Rides chart](analysis/Fig7b.png)
 
 * Total Fares: Urban communities accounted for approximately 63% of total fares.
 
-![Pyber Total Rides chart](analysis/Fig5.PNG)
+![Pyber Total Rides chart](analysis/Fig5.png)
 
 * Average Fare per Ride: Rural communities generated the highest average fare per ride.
 
 * Average Fare Per Driver: Rural communities also generated the highest average fare per driver.
 
-![Pyber Summary Table](analysis/PyBer_summary_table.PNG)
+![Pyber Summary Table](analysis/PyBer_summary_table.png)
 
 * Total Fare by City Type: An assessment of total weekly fares by city type between January 1 and April 28, 2019 indicates that suburban trips peaked during the week of February 24, urban trips the week of March 10, and rural trips the week of April 7. 
 
-![Pyber Weekly Fares Chart](analysis/PyBer_fare_summary.PNG)
+![Pyber Weekly Fares Chart](analysis/PyBer_fare_summary.png)
 
 ## PyBer Analysis Summary
 The following recommendations are provided to address disparities among the city types:
