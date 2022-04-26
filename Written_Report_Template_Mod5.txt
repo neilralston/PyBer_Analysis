@@ -5,7 +5,7 @@
 ## Overview of PyBer Ride Sharing Data Analysis
 
 ### Purpose
-Completed an analysis of PyBer Ride Sharing Data across a cross-section of markets.
+Completed an analysis of PyBer ride sharing data across a cross-section of markets comprised of urban, suburban, and rural communities.
 
 Provided the following assessments:
 
@@ -16,7 +16,7 @@ Provided the following assessments:
 	* Average fare per ride
 	* Average fare per driver
 
-2. Prepared a multiple-line graph depicting total fareas for each week between January 1 and April 28, 2019 by city type
+2. Prepared a multiple-line graph depicting total fares for each week between January 1 and April 28, 2019 by city type
 
 ### Resources
 
@@ -29,33 +29,38 @@ This project was prepared using the following:
 
 * Source data provided by Pyber: 
 
-[Link to city data](resouces/city_data.csv)
+[Link to city data](resources/city_data.csv)
 
 [Link to ride data](resources/ride_data.csv)
 
 ## PyBer Analysis Results
 
-Overview
-* 
+The analysis yielded the following conclusions:
 
-Results
-* Differences in ride-sharing data among the different city types
+*Total Rides: Urban communities accounted for approximately 68% of total rides generated.
 
-Total Rides
+![Pyber Total Rides chart](analysis/Fig6.PNG)
 
-Toal Drivers
+* Total Drivers: Urban communities accounted for approximately 81% of total drivers.
 
-Total Fares
+![Pyber Total Rides chart](analysis/Fig7b.PNG)
 
-Average Fare per Ride
+* Total Fares: Urban communities accounted for approximately 63% of total fares.
 
-Average Fare Per Driver
+![Pyber Total Rides chart](analysis/Fig5.PNG)
 
-Total Fare by City Type
+* Average Fare per Ride: Rural communities generated the highest average fare per ride.
 
+* Average Fare Per Driver: Rural communities also generated the highest average fare per driver.
+
+![Pyber Summary Table](analysis/PyBer_summary_table.PNG)
+
+* Total Fare by City Type: An assessment of total weekly fares by city type between January 1 and April 28, 2019 indicates that suburban trips peaked during the week of February 24, urban trips the week of March 10, and rural trips the week of April 7. 
+
+![Pyber Weekly Fares Chart](analysis/PyBer_fare_summary.PNG)
 
 ## Pyber Analysis Summary
 The following recommendations are provided to address disparities among the city types:
-1. 
-2. 
-3. 
+1. Pyber could consider a campaign to recruit additional drivers in rural communities as the average fare per ride and per driver are higher.
+2. As the peak level fare generation occurred during a different week for each community type, Pyber could consider shifting some drivers within its system to better match ride demand with driver availability.
+3. Pyber could continue the weekly fare trend analysis to determine if the strong growth in suburban fare generation continued into the summer months; if so, a promotional campaign may be warranted. 
